@@ -33,17 +33,13 @@ Before you begin, make sure you have the following installed:
    git clone https://github.com/e1ly1a/slim-custom.git
    ```
 
-   Replace `your-username` with your GitHub username and `project-name` with the name of this project.
-
 2. **Navigate to the project directory:**
 
    Move into the project directory using the following command:
 
    ```bash
-   cd project-name
+   cd slim-custom
    ```
-
-   Replace `project-name` with the actual name of the cloned project directory.
 
 3. **Update Composer dependencies:**
 
