@@ -30,7 +30,7 @@ Before you begin, make sure you have the following installed:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/e1ly1a/slim-custom.git
+   git clone https://github.com/e1l1ya/slim-custom.git
    ```
 
 2. **Navigate to the project directory:**
